@@ -20,7 +20,7 @@
 
 ### 1. Clonar el repositorio y acceder a la carpeta
 ```bash
-git clone https://github.com/joseluis-dam/pulsefit-api.git
+git clone https://github.com/JoseLuisMartinezA/pulsefit-api.git
 cd pulsefit-api
 ```
 
@@ -103,6 +103,6 @@ pulsefit-api/
 ---
 
 ## 👨‍💻 Autor
-* **Alumno:** José (2º DAMEL)
+* **Alumno:** José Luis Martínez Aceituno (2º DAMEL)
 * **Profesor:** Rubén Élez López
 * **Módulo:** Programación de Aplicaciones Utilizando Frameworks (PDAU)

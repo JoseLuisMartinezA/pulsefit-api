@@ -35,7 +35,7 @@ async def root():
     return {
         "message": f"¡Bienvenido a {settings.PROJECT_NAME}!",
         "version": settings.VERSION,
-        "author": "José - 2º DAMEL",
+        "author": "José Luis Martínez Aceituno - 2º DAMEL",
         "module": "Programación de Aplicaciones Utilizando Frameworks (PDAU)",
         "docs_url": "/docs",
         "redoc_url": "/redoc",
